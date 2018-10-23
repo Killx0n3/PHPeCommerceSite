@@ -1,5 +1,8 @@
 # PHP eCommerce Site
 ### Online Laptop Selling Site (Prototype)
+![PHP](https://img.shields.io/badge/Language-PHP-red.svg)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-green.svg)
+![mySQL](https://img.shields.io/badge/Database-mySQL-blue.svg)
 
 ## Project Details
 This was a project (assignment) for a Macquarie University unit. I had to make a PHP eCommerce site totally from scratch.
@@ -11,9 +14,16 @@ It does both client side and server side validation. JavaScript and PHP has been
 https://platypus.science.mq.edu.au/~44024541/
 
 ## Status
-This site is fully ready to be implemented for any eCommerce purpose. You can just download it and make changes to the parameters to make your own eCommerce Site.
+This site is ready to be implemented for any eCommerce purpose. You can just download it and make changes to the parameters to make your own eCommerce Site.
 
 
-## About Me
-I am TanVir Hossain. I am a Software Engineer.
+## Author
+#### M TanVir Hossain
+
+Software Engineer
+
+Sydney, Australia
+
+Email: hossain.tanvir.m@gmail.com
+
 Originally this project was done by me in September, 2018. 
