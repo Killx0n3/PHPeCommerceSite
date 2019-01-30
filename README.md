@@ -8,7 +8,7 @@
 This was a project (assignment) for a Macquarie University unit. I had to make a PHP eCommerce site totally from scratch.
 It has all basic functionality like Registration, Registration confirmation, Login, Browse, Order, Shopping cart management, Checkout, Logoff etc.
 
-It does both client side and server side validation. JavaScript and PHP has been used. For database, mySQL has been used.
+It does both client side and server side validation. JavaScript and PHP have been used. For the database, MySQL has been used.
 
 ## Live Demo
 https://platypus.science.mq.edu.au/~44024541/
